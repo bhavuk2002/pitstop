@@ -1,4 +1,4 @@
-#Startup Resources
+# Startup Resources
 
 ## Youtube Channels
 1.[YCombinator](https://www.youtube.com/@ycombinator): Y Combinator's YouTube channel showcases startup insights, entrepreneurial advice, and interviews with industry leaders, providing valuable resources for aspiring entrepreneurs.
